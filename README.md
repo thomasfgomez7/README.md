@@ -13,7 +13,7 @@ I'm a **Cloud Engineer** with a strong background in **Data Engineering** and a 
 - **Version Control & Collaboration:** Git, GitHub, Azure Repos
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfgomez7&layout=compact)
 
 ---
 
